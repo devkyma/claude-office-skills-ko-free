@@ -27,3 +27,6 @@ Claude Code를 다시 실행하면 스킬이 자동으로 인식됩니다. 파�
 
 ## 고지
 Anthropic 공식 제품이 아니며 Anthropic과 관계가 없습니다. 결과물은 초안이며 중요한 판단은 담당자가 확인하세요.
+
+## Codex CLI 사용자
+같은 SKILL.md 표준이라 OpenAI Codex CLI에서도 동작합니다. 스킬 폴더를 `~/.agents/skills/`에 복사하세요. (Windows: `%USERPROFILE%\.agents\skills\`)
